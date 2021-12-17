@@ -1,0 +1,77 @@
+/*<!--Justin Downey, 12/16/2021-->*/
+
+.background{
+    background-image: url(../Images/background.JPG)
+}
+a:visited{
+    color:whitesmoke;
+    text-decoration:none;
+
+}
+a{
+    color:whitesmoke;
+    text-decoration:none;
+    font-size:large;
+}
+a:hover{
+    color:lime;
+    text-decoration:none;
+}
+
+.navbar{
+    list-style-type:none;
+    background-color:rgba(0, 0, 0, 0.589);
+    
+    
+
+}
+
+.nav_item{
+    list-style-type:none;
+}
+ul{
+    list-style-type:none;
+
+}
+
+h1{
+    text-align:center;
+    font-size: 75px;
+    font-family:Arial, Helvetica, sans-serif
+}
+.link{
+    text-align:center;
+    font-size:25px;
+    color:black;
+    background-color:black;
+}
+
+li{
+    display:inline-block;
+    text-align:center;
+    padding:20px 25px;
+    background-color:rgba(0,0,0,0.589);
+    letter-spacing:3px;
+
+}
+.anchor{
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:fit-content;
+    height: fit-content;
+    border:4px solid gray;
+    background-color:white;
+    font-size:25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+p{
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.Footer{
+    text-align:right;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

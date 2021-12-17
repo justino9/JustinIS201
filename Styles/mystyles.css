@@ -1,0 +1,51 @@
+/*<!--Justin Downey, 12/16/2021-->*/
+@charset "UTF-8";
+
+   
+    .background{
+        background-image: url("../Images/background.JPG");
+    }
+
+    p{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color:rgb(51, 51, 51);
+        align-items:center;
+        text-align:center;
+
+    }
+    ul{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-style:italic;
+    }
+    a{
+        text-align:center;
+    }
+    .anchor{
+        position:fixed;
+        bottom:0;
+        left:0;
+        width:fit-content;
+        height: fit-content;
+        border:4px solid gray;
+        background-color:white;
+        font-size:25px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+    h3{
+        text-align:center;
+        font-family:Verdana, Geneva, Tahoma, sans-serif
+    }
+    .skills li{
+        display:inline;
+        background-color:rgba(128, 128, 128, 0.753);
+        align-items:center;
+    }
+    h4{
+        background-color:rgba(128, 128, 128, 0.753);
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+    }
+    .workex{
+        background-color:rgba(128, 128, 128, 0.753);
+        color:whitesmoke;
+    }
